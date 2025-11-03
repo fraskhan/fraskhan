@@ -1,7 +1,7 @@
 <!-- Profile README: AL-FRASKHAN A. JOSE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+AL-FRASKHAN+A.+JOSE+%F0%9F%91%8B;Full+Stack+Developer+%7C+Aspiring+Software+Engineer;Web+%2F+App+Dev+%2F+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+ALFRASKHAN+A.+JOSE+%F0%9F%91%8B;Full+Stack+Developer+%7C+Aspiring+Software+Engineer;Web+%2F+App+Dev+%2F+Data+Analytics+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
